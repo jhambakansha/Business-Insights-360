@@ -4,6 +4,9 @@
 
 In recent years, AtliQ Hardware has experienced significant growth, prompting the company to adopt PowerBi for the first time to leverage data analytics. This strategic move aims to outperform competitors in the market and enable data-driven decision-making. The project's objective is to provide stakeholders with comprehensive insights across various aspects, including finance, sales, marketing, and supply chain, addressing their key questions.
 
+## Download Power BI File
+[Click here to download the PBIX file](https://drive.google.com/file/d/1ET5K-KXhPvQvUDv8WMxqeSg5Je5_gX10/view?usp=drive_link)
+
 ## Dashboard Link : [Live Report Link](https://app.powerbi.com/view?r=eyJrIjoiZDUyYjA1NTAtYzdkYi00MjQzLTg5OTItZDY5MWUzN2M4MmU3IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&pageName=ReportSection0e765c0061580b067c73)
 
 ## Tech stacks
